@@ -4,6 +4,8 @@
 <!-- <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png"> -->
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<p>I have 5+ years of experience designing, developing, and maintaining user-centric web applications in start-up and corporate environments. I possess a history of leveraging JavaScript and JS-based frameworks for front-end development. Additionally, I am skilled in project management, front-end code review, UI best practices, and product development. My academic journey and professional path have enabled me to execute tech-savvy projects, emphasizing cross-browser compatibility, browser manipulation, and front-end features. </p>
+
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
